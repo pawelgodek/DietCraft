@@ -22,8 +22,4 @@
       <ProjectReference Include="..\DietCraft.Domain\DietCraft.Domain.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Products\" />
-    </ItemGroup>
-
 </Project>

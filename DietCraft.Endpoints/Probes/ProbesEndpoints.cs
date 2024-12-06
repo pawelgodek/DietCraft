@@ -6,6 +6,6 @@ public class ProbesEndpoints
 {
     public static async Task<IResult> LivenessCheckAsync()
     {
-        return await Task.FromResult(Results.Ok());
+        return await Task.FromResult(Results.Ok("pong"));
     }
 }
