@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietCraft.Api", "DietCraft.Api\DietCraft.Api.csproj", "{BBF23382-D145-4043-B9D9-6591B01AD7DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietCraft.Application", "DietCraft.Application\DietCraft.Application.csproj", "{4E5604D4-BBDE-4BB6-938B-5634A60A01ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietCraft.Endpoints", "DietCraft.Endpoints\DietCraft.Endpoints.csproj", "{78AA319F-3E1A-4464-B65C-D9F13D90DA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietCraft.Domain", "DietCraft.Domain\DietCraft.Domain.csproj", "{B8861E20-FF06-40C1-9974-B5D044400FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietCraft.Infrastructure", "DietCraft.Infrastructure\DietCraft.Infrastructure.csproj", "{8DF899AB-3B49-4035-8097-B76B5D43B7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF23382-D145-4043-B9D9-6591B01AD7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF23382-D145-4043-B9D9-6591B01AD7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF23382-D145-4043-B9D9-6591B01AD7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF23382-D145-4043-B9D9-6591B01AD7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5604D4-BBDE-4BB6-938B-5634A60A01ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5604D4-BBDE-4BB6-938B-5634A60A01ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5604D4-BBDE-4BB6-938B-5634A60A01ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5604D4-BBDE-4BB6-938B-5634A60A01ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78AA319F-3E1A-4464-B65C-D9F13D90DA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AA319F-3E1A-4464-B65C-D9F13D90DA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AA319F-3E1A-4464-B65C-D9F13D90DA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AA319F-3E1A-4464-B65C-D9F13D90DA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8861E20-FF06-40C1-9974-B5D044400FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8861E20-FF06-40C1-9974-B5D044400FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8861E20-FF06-40C1-9974-B5D044400FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8861E20-FF06-40C1-9974-B5D044400FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF899AB-3B49-4035-8097-B76B5D43B7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF899AB-3B49-4035-8097-B76B5D43B7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF899AB-3B49-4035-8097-B76B5D43B7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF899AB-3B49-4035-8097-B76B5D43B7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
