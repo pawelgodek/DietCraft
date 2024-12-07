@@ -6,7 +6,7 @@ public static class EndpointMapper
 {
     public static void MapEndpoints(this IEndpointRouteBuilder app)
     {
-        app.MapGet("ping", ProbesEndpoints.LivenessCheckAsync)
+        app.MapPost("ping", ProbesEndpoints.LivenessCheckAsync)
             .Produces<string>();
     }
 }
